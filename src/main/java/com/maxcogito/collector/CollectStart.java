@@ -13,7 +13,7 @@ public class CollectStart
     {
 	String inputLine = null;
 	Scanner scanner = new Scanner(new InputStreamReader(System.in));
-	
+	//Add comment	
         System.out.println( "Hello User!");
         System.out.println( "Please enter some line of text here: " );
 	inputLine = scanner.nextLine();
